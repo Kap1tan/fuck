@@ -4,7 +4,7 @@
 """
 
 # Настройки бота
-BOT_TOKEN = "7790883343:AAGe4Q4plWKljYg8zNsM-lOS7N6h5Ny9Fi4"  # Токен бота Telegram
+BOT_TOKEN = "8073603215:AAH9DGa5_7UkbzUnvwL8Cjtdsks0SF8gAXA"  # Токен бота Telegram
 ADMIN_IDS = [278355059,804644988,335605223]  # Список ID администраторов
 GROUP_ID = -1002542126851  # ID группы клуба X10 (отрицательное число)
 CHANNEL_ID = -1009876543210  # ID канала клуба X10 (отрицательное число, опционально)
